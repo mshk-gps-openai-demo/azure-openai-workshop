@@ -25,4 +25,7 @@ For more details on sample architecture or hightlighted demo, please check [MSHK
         * Cosmos DB
     * Function Call
     * Whisper Model
-5. Use Cases and Reference Architecture [in progress]
+5. Use Cases and Reference Architecture [[deck](decks/5%20Use%20Cases%20and%20Reference%20Architectures.PPTX)]
+    * Use Cases
+    * Reference Architectures
+    * Customer Stories
