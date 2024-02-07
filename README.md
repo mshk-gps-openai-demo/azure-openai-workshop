@@ -29,3 +29,6 @@ For more details on sample architecture or hightlighted demo, please check [MSHK
     * Use Cases
     * Reference Architectures
     * Customer Stories
+<BR><BR>
+### Additional Resources
+* Assisstant API [[deck](decks/Assistants%20API.pptx)]
